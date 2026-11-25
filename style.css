@@ -72,8 +72,12 @@ dd{margin:0}
 .item h3{font-size:1.2rem;font-weight:700;letter-spacing:-.015em}
 .item .meta{color:var(--muted);font-size:.95rem;margin:.25rem 0 .6rem}
 .item p{color:var(--ink);margin:0}
+.item .desc{margin-top:.55rem}
 .item ul{margin:.5rem 0 0;padding-left:1.1rem;color:var(--muted)}
 .item li{margin-bottom:.25rem}
+.item ul.tags{display:flex;flex-wrap:wrap;gap:.45rem;list-style:none;margin:.85rem 0 0;padding:0}
+.item ul.tags li{margin:0;padding:.2rem .65rem;border:1px solid var(--line);border-radius:999px;background:var(--surface);color:var(--ink);font-size:.85rem;font-weight:500}
+.item .links{margin-top:1rem}
 
 footer{border-top:1px solid var(--line);padding:2rem 0 2.5rem;color:var(--muted);font-size:.92rem}
 footer .wrap{display:flex;flex-wrap:wrap;justify-content:space-between;gap:.75rem}

@@ -7,6 +7,7 @@ Portfólio pessoal estático desenvolvido com **HTML, CSS e JavaScript puros** p
 - **Início:** apresentação rápida, disponibilidade para vagas de Desenvolvedor Jr. e links principais (Contato, GitHub e LinkedIn).
 - **Sobre:** resumo da trajetória, foco atual (NestJS, Prisma e PostgreSQL) e objetivo profissional.
 - **Habilidades:** linguagens, tecnologias web/interfaces, bancos de dados, vivência prática e idiomas.
+- **Projetos:** projetos desenvolvidos, com descrição, tecnologias utilizadas e link direto para o repositório no GitHub (iniciando pelo **Portfólio Web**).
 - **Trajetória:** histórico de experiências profissionais e formação acadêmica/técnica.
 - **Trabalhos anteriores:** detalhamento das atividades realizadas como programador trainee e instrutor de inclusão digital.
 - **Contato:** envio direto via **Gmail** ou **Outlook Web**, botão para **copiar e-mail** e link para o **LinkedIn**.
